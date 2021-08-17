@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39905884761",
+    "firebase_url": "https://something-8bbc0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "something-8bbc0",
+    "storage_bucket": "something-8bbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39905884761:android:459e499830eb603a7d4f48",
+        "android_client_info": {
+          "package_name": "com.example.muazarresources"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39905884761-8agb3baum0al9sg1qk2uh0g92or6fl41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTHEzwHolIfa6NphIAy3cXnd_UHOW7cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39905884761-8agb3baum0al9sg1qk2uh0g92or6fl41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MuazARResources</string>
+
+    <array name="session">
+        <item>Pagi</item>
+        <item>Petang</item>
+    </array>
+
+    <array name="Month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+    </array>
+
+    <array name="Status">
+        <item>Not paid</item>
+        <item>Paid</item>
+    </array>
+
+    <array name="Name">
+        <item>Choose</item>
+
+    </array>
+
+
+</resources>
