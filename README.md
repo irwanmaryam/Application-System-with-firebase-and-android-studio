@@ -1,2 +1,2 @@
 # Application-System-with-firebase-and-android-studio
-Basic Create, Update, Delete and Readthat involve with two entity
+Basic Create, Update, Delete and Read that involve with two entity
